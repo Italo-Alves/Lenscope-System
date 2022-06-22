@@ -1,3 +1,9 @@
+![Imagem do Sistema Finalizado](.github/appImage.png)
+
+### Link do deploy do sistema na Vercel: [System Lenscope](https://lenscope-system.vercel.app/) 
+
+---
+
 ## 🚀 Tecnologias
 
 Esse sistema foi desenvolvido com as seguintes tecnologias:
